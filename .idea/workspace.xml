@@ -2,39 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2f375b1-1640-458d-993e-c58aa35149a9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/centerpoint/Centerpoint.py" beforeDir="false" afterPath="$PROJECT_DIR$/centerpoint/Centerpoint.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/center0_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center0_async.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/center10_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center10_async.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/center11_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center11_async.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/center12_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center12_async.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/center13_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center13_async.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/center14_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center14_async.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/center15_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center15_async.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/center16_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center16_async.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/center17_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center17_async.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/center18_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center18_async.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/center19_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center19_async.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/center1_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center1_async.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/center20_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center20_async.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/center21_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center21_async.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/center22_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center22_async.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/center23_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center23_async.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/center24_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center24_async.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/center25_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center25_async.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/center26_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center26_async.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/center27_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center27_async.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/center28_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center28_async.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/center2_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center2_async.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/center3_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center3_async.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/center4_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center4_async.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/center5_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center5_async.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/center6_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center6_async.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/center7_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center7_async.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/center8_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center8_async.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/center9_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center9_async.eps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,14 +15,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            <state relative-caret-position="180">
+              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="12" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="180">
+                <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -75,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/centerpoint/Centerpoint.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="128">
-              <caret line="106" column="51" lean-forward="true" selection-start-line="106" selection-start-column="51" selection-end-line="106" selection-end-column="51" />
+              <caret line="106" column="51" selection-start-line="106" selection-start-column="51" selection-end-line="106" selection-end-column="51" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -127,6 +107,7 @@
         <option value="$PROJECT_DIR$/agent.py" />
         <option value="$PROJECT_DIR$/centerpoint/Centerpoint.py" />
         <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -299,12 +280,12 @@
     <frame x="161" y="25" width="1221" height="875" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1875" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1875" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2985843" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2985843" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2857143" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -428,7 +409,7 @@
     <entry file="file://$PROJECT_DIR$/centerpoint/Centerpoint.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
-          <caret line="106" column="51" lean-forward="true" selection-start-line="106" selection-start-column="51" selection-end-line="106" selection-end-column="51" />
+          <caret line="106" column="51" selection-start-line="106" selection-start-column="51" selection-end-line="106" selection-end-column="51" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
@@ -437,11 +418,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        <state relative-caret-position="180">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="12" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
