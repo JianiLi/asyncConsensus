@@ -12,7 +12,7 @@ if __name__ == '__main__':
     numAgent = 17  # 13  # number of robot
     n_faulty = 4  # 3  # number of faulty robots
     n_fault_free = numAgent - n_faulty  # number of fault-free robots
-    method = "tver"  # "tver" for Tverberg point or "center" for centerpoint, or "wc" for weighted centerpoint
+    method = "center"  # "tver" for Tverberg point or "center" for centerpoint, or "wc" for weighted centerpoint
     box = 1
     delta = 1e-7 * box  # halt parameter
     # sensDist = 3  # sensing range

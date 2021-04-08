@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2f375b1-1640-458d-993e-c58aa35149a9" name="Default Changelist" comment="" />
+    <list default="true" id="c2f375b1-1640-458d-993e-c58aa35149a9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/centerpoint/Centerpoint.py" beforeDir="false" afterPath="$PROJECT_DIR$/centerpoint/Centerpoint.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/center0_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center0_async.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/center10_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center10_async.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/center11_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center11_async.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/center12_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center12_async.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/center13_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center13_async.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/center14_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center14_async.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/center15_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center15_async.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/center16_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center16_async.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/center17_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center17_async.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/center18_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center18_async.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/center19_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center19_async.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/center1_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center1_async.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/center20_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center20_async.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/center21_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center21_async.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/center22_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center22_async.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/center23_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center23_async.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/center24_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center24_async.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/center25_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center25_async.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/center26_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center26_async.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/center27_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center27_async.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/center28_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center28_async.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/center2_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center2_async.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/center3_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center3_async.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/center4_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center4_async.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/center5_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center5_async.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/center6_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center6_async.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/center7_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center7_async.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/center8_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center8_async.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/center9_async.eps" beforeDir="false" afterPath="$PROJECT_DIR$/result/center9_async.eps" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +50,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="135">
+              <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -40,8 +74,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/centerpoint/Centerpoint.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="78" selection-start-line="78" selection-end-line="78" />
+            <state relative-caret-position="128">
+              <caret line="106" column="51" lean-forward="true" selection-start-line="106" selection-start-column="51" selection-end-line="106" selection-end-column="51" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -74,21 +108,24 @@
     <findStrings>
       <find>_pos</find>
       <find>faulty</find>
-      <find>p_init</find>
       <find>stop</find>
+      <find>p_init</find>
     </findStrings>
     <replaceStrings>
       <replace>value</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/framework.py" />
-        <option value="$PROJECT_DIR$/centerpoint/Centerpoint.py" />
         <option value="$PROJECT_DIR$/utils.py" />
         <option value="$PROJECT_DIR$/agent.py" />
+        <option value="$PROJECT_DIR$/centerpoint/Centerpoint.py" />
         <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
@@ -99,6 +136,7 @@
     <option name="width" value="1221" />
     <option name="height" value="875" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -119,6 +157,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/centerpoint" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -258,13 +297,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="161" y="25" width="1221" height="875" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1875" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1875" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2985843" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2985843" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2857143" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -285,11 +325,6 @@
           <url>file://$PROJECT_DIR$/agent.py</url>
           <line>29</line>
           <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/centerpoint/Centerpoint.py</url>
-          <line>112</line>
-          <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main.py</url>
@@ -370,16 +405,6 @@
     <entry file="file://$PROJECT_DIR$/TverbergPoint/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/centerpoint/Centerpoint.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="78" selection-start-line="78" selection-end-line="78" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/utils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="393">
@@ -400,10 +425,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/centerpoint/Centerpoint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="106" column="51" lean-forward="true" selection-start-line="106" selection-start-column="51" selection-end-line="106" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="135">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
