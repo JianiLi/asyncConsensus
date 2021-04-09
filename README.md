@@ -1,4 +1,4 @@
-# Asynchronous approximate vector conseusus using centerpoints
+# Asynchronous approximate vector conseusus using centerpoints in complete graphs
 
 
 ## Instruction
